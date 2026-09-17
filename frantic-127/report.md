@@ -1,11 +1,11 @@
 # Frantic #127 Delivery Report
 
-- public_url: https://dev.to/dhooooooh/how-to-check-whether-a-startup-program-is-real-before-you-apply-498n
+- public_url: https://dev.to/dhooooooh/how-to-check-whether-a-startup-program-is-real-before-you-apply-221d
 - platform and byline: DEV Community article by dhooooooh
-- account evidence: the public DEV profile reports Joined Sep 17, 2026; the profile had 0 public articles before this task and now shows this 1 published article
+- account evidence: the public DEV profile reports Joined Sep 17, 2026; it showed 3 earlier public articles before this publication and now shows 4 published articles
 - topic: how to check whether a startup program is real before applying
 - published length: 627 words
-- Sourcey observations: three dated facts were checked against the live Kiro, AWS Activate, and ActiveCampaign offer records on September 17, 2026; all three pages currently expose Sourcey's release sha256:640994e964c7509483f14b62f8b4c5b06ffc087a8a8063721034048820fd3539
+- Sourcey observations: three dated facts were checked against the live Kiro, AWS Activate, and ActiveCampaign offer records on September 18, 2026; all three pages currently expose Sourcey's release sha256:640994e964c7509483f14b62f8b4c5b06ffc087a8a8063721034048820fd3539
 - link check: the published article contains three normal Sourcey anchors plus the Kiro application and terms links
 - style check: the published text contains no em dash or en dash and does not present a Sourcey ranking or verification label
 - public page check: the formal DEV URL is public, shows dhooooooh as the author, and no longer has the unpublished-secret-preview state

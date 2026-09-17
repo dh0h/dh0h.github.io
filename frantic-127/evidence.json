@@ -1,13 +1,13 @@
 {
-  "public_url": "https://dev.to/dhooooooh/how-to-check-whether-a-startup-program-is-real-before-you-apply-498n",
+  "public_url": "https://dev.to/dhooooooh/how-to-check-whether-a-startup-program-is-real-before-you-apply-221d",
   "platform": "dev.to",
   "byline": "dhooooooh",
   "profile_url": "https://dev.to/dhooooooh",
   "account_creation_date": "2026-09-17",
-  "prior_post_count": 0,
+  "prior_post_count": 3,
   "article_word_count": 627,
   "topic": "How to check whether a startup program is real before applying",
-  "checked_at": "2026-09-17",
+  "checked_at": "2026-09-18",
   "sourcey_release": "sha256:640994e964c7509483f14b62f8b4c5b06ffc087a8a8063721034048820fd3539",
   "summary": "On September 17, 2026, dhooooooh published a 627-word original dev.to article that teaches readers to verify startup offers against vendor pages, eligibility rules, dated facts, and Sourcey records.",
   "observations": [
@@ -16,21 +16,21 @@
       "sourcey_url": "https://sourcey.com/catalog/kiro/offers/one-year-kiro-pro-plus",
       "offer_id": "off_01kz2n7d2qzs80cnn406ykz3qd",
       "quoted_value": "Up to one year of Kiro Pro+ credits; packages for up to 2, 10, or 30 users",
-      "checked_at": "2026-09-17"
+      "checked_at": "2026-09-18"
     },
     {
       "fact": "AWS Activate Portfolio credits are listed up to $200,000 for pre-Series B startups that apply with an AWS Activate Provider Org ID.",
       "sourcey_url": "https://sourcey.com/catalog/aws/offers/aws-activate-portfolio-credits",
       "offer_id": "off_01kyh8fpe12z6fgn1ywg2ykth8",
       "quoted_value": "Up to $200,000; pre-Series B; AWS Activate Provider Org ID",
-      "checked_at": "2026-09-17"
+      "checked_at": "2026-09-18"
     },
     {
       "fact": "ActiveCampaign's Incubator Program is listed at 90% off an annual plan for the first year, subject to its startup and incubator conditions.",
       "sourcey_url": "https://sourcey.com/catalog/activecampaign/offers/activecampaign-incubator-program",
       "offer_id": "off_01kyh8fpdykn4q9hneqabepa3s",
       "quoted_value": "90% off the first year of an annual plan",
-      "checked_at": "2026-09-17"
+      "checked_at": "2026-09-18"
     }
   ],
   "sourcey_links": [
