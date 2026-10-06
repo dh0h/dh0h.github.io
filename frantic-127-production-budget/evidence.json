@@ -1,0 +1,109 @@
+{
+  "bounty": 127,
+  "title": "From AI Demo to Production Budget",
+  "public_url": "https://dev.to/dhooooooh/from-ai-demo-to-production-budget-2cd9",
+  "platform": "dev.to",
+  "byline": "dhooooooh",
+  "profile_url": "https://dev.to/dhooooooh",
+  "account_creation_date": "2026-09-17",
+  "account_age_days_on_publication": 19,
+  "posts_before_publication": 3,
+  "posts_before_original_publication": 3,
+  "prior_public_posts": [
+    {
+      "title": "Code Judgment in the AI Era",
+      "url": "https://dev.to/dhooooooh/code-judgment-in-the-ai-era-3lof",
+      "published_at": "2026-09-17T17:42:06Z"
+    },
+    {
+      "title": "Computer Use is All You Need",
+      "url": "https://dev.to/dhooooooh/computer-use-is-all-you-need-17fi",
+      "published_at": "2026-09-17T17:51:35Z"
+    },
+    {
+      "title": "The Agent’s Last Mile",
+      "url": "https://dev.to/dhooooooh/the-agents-last-mile-3i7i",
+      "published_at": "2026-09-17T18:05:15Z"
+    }
+  ],
+  "published_at": "2026-10-06T15:38:50Z",
+  "checked_at": "2026-10-06T15:54:05.676735Z",
+  "topic_number": 5,
+  "topic": "How to check whether a startup program is real before applying, using canonical vendor sources and worked examples.",
+  "article_word_count_excluding_title_headings_and_table": 736,
+  "summary": "This new DEV publication applies the canonical-source rule to Google Cloud, Baseten and AWS startup offers, with three dated Sourcey facts and a transparent hypothetical cash-budget calculation. The live published Markdown matches the local final text. Page-level noindex and nofollow remain present; this submission does not claim that the indexability requirement is met.",
+  "observations": [
+    {
+      "fact": "The AI startup offer lists up to $250,000 in year-one credits, followed by 20% coverage up to an additional $100,000 in year two.",
+      "sourcey_url": "https://sourcey.com/c/google-cloud/offers/google-for-startups-cloud-program-ai",
+      "offer_id": "off_01kz5x2kqemq0cjk00sy3tzjd1",
+      "quoted_value": "up to $250,000",
+      "checked_at": "2026-10-06T15:54:05.676735Z",
+      "sourcey_observed_date": "2026-08-04",
+      "sourcey_json_url": "https://sourcey.com/c/google-cloud/offers/google-for-startups-cloud-program-ai.json",
+      "sourcey_revision_digest": "sha256:2b765a778da91cc2724595cd06263e90e73cc722a8b925a55488d3e80417981c",
+      "vendor_source_urls": [
+        "https://cloud.google.com/startup/benefits?hl=en"
+      ],
+      "vendor_pages_rechecked_date": "2026-10-06"
+    },
+    {
+      "fact": "Baseten distinguishes up to $25,000 for Dedicated Inference or Training from up to $2,500 for Model APIs.",
+      "sourcey_url": "https://sourcey.com/c/baseten/offers/ai-startup-program",
+      "offer_id": "off_01kyyjpn04x1cdycrwbq4t7r08",
+      "quoted_value": "Up to $25,000 in credits for Dedicated Inference or Training; Up to $2,500 in credits for Model APIs",
+      "checked_at": "2026-10-06T15:54:04.791567Z",
+      "sourcey_observed_date": "2026-08-01",
+      "sourcey_json_url": "https://sourcey.com/c/baseten/offers/ai-startup-program.json",
+      "sourcey_revision_digest": "sha256:11b3e9e0b1b0f2d649d986bd9db50a79cda7f39ae6cb951585a1b2ddd64a2a16",
+      "vendor_source_urls": [
+        "https://www.baseten.co/startup-program/"
+      ],
+      "vendor_pages_rechecked_date": "2026-10-06"
+    },
+    {
+      "fact": "AWS Activate Portfolio lists up to $200,000 for pre-Series B startups with an Activate Provider Org ID.",
+      "sourcey_url": "https://sourcey.com/c/aws/offers/aws-activate-portfolio-credits",
+      "offer_id": "off_01kyh8fpe12z6fgn1ywg2ykth8",
+      "quoted_value": "Up to $200,000 in AWS credits",
+      "checked_at": "2026-10-06T15:54:03.111858Z",
+      "sourcey_observed_date": "2026-08-04",
+      "sourcey_json_url": "https://sourcey.com/c/aws/offers/aws-activate-portfolio-credits.json",
+      "sourcey_revision_digest": "sha256:93c1724d21cda7eb5744a981fb1c4715ad6097664b2279dda9e722ab0c8a7220",
+      "vendor_source_urls": [
+        "https://aws.amazon.com/startups/credits/",
+        "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/"
+      ],
+      "vendor_pages_rechecked_date": "2026-10-06"
+    }
+  ],
+  "publication_checks": {
+    "http_status": 200,
+    "anonymous_readable": true,
+    "draft_or_preview": false,
+    "canonical_url": "https://dev.to/dhooooooh/from-ai-demo-to-production-budget-2cd9",
+    "listed_on_public_profile": true,
+    "profile_checked_at": "2026-10-06T15:54:03.815333Z",
+    "dev_api_url": "https://dev.to/api/articles/dhooooooh/from-ai-demo-to-production-budget-2cd9",
+    "dev_api_id": 4807474,
+    "published_markdown_matches_local": true,
+    "robots_meta": [
+      "max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "noindex",
+      "nofollow"
+    ],
+    "indexable": false,
+    "search_index_status": "Not claimed; noindex remains and the 14-day search check has not occurred."
+  },
+  "known_unresolved_requirements": [
+    "The published page still carries noindex and nofollow. No indexability fix is claimed.",
+    "The account is under 90 days old. Three prior public posts exist, all published on September 17 UTC. Prior reviewers objected to the short initial publication history; no guarantee is made that the new publication resolves that objection."
+  ],
+  "redelivery_changes": [
+    "New article published October 6, 2026, replacing the deleted earlier article URL in this evidence packet.",
+    "Rewritten around AI production budgeting and canonical-source verification rather than the previous Quora-answer structure.",
+    "Short link anchors, three explicit observation dates, and an original Google coverage calculation.",
+    "No bounty disclosure or disclaimer in the published article."
+  ]
+}
+
