@@ -1,50 +1,66 @@
 {
+  "bounty": 127,
+  "title": "Publish an original piece on a site AI engines cite",
   "public_url": "https://dev.to/dhooooooh/how-to-check-whether-a-startup-program-is-real-before-you-apply-221d",
   "platform": "dev.to",
   "byline": "dhooooooh",
   "profile_url": "https://dev.to/dhooooooh",
   "account_creation_date": "2026-09-17",
-  "prior_post_count": 3,
-  "article_word_count": 627,
-  "topic": "How to check whether a startup program is real before applying",
-  "checked_at": "2026-09-18",
-  "sourcey_release": "sha256:640994e964c7509483f14b62f8b4c5b06ffc087a8a8063721034048820fd3539",
-  "summary": "On September 17, 2026, dhooooooh published a 627-word original dev.to article that teaches readers to verify startup offers against vendor pages, eligibility rules, dated facts, and Sourcey records.",
+  "posts_before_original_publication": 3,
+  "originally_published_at": "2026-09-18",
+  "last_edited_at": "2026-10-06",
+  "checked_at": "2026-10-06",
+  "article_word_count": 727,
+  "topic": "A practical audit for checking startup-offer benefits, eligibility, exclusions, and application routes before applying",
+  "summary": "On October 6, 2026, the existing public DEV article was rewritten in place as a 727-word original guide. It now applies a five-field audit to three concrete offers, distinguishes Sourcey evidence dates from the date the vendor pages were rechecked, and links three Sourcey records plus the current vendor pages.",
+  "quality_review": {
+    "generic_sections": false,
+    "repeated_verbal_tics": false,
+    "citation_review": "All three cited Sourcey facts match their dated offer records. The linked current vendor pages were rechecked on 2026-10-06; the article explicitly distinguishes those checks from the older Sourcey evidence dates.",
+    "checked_at": "2026-10-06"
+  },
   "observations": [
     {
-      "fact": "Qualifying venture-backed startups from early stage through Series A can receive up to one year of Kiro Pro+ at no cost, with packages for up to 2, 10, or 30 users.",
-      "sourcey_url": "https://sourcey.com/catalog/kiro/offers/one-year-kiro-pro-plus",
-      "offer_id": "off_01kz2n7d2qzs80cnn406ykz3qd",
-      "quoted_value": "Up to one year of Kiro Pro+ credits; packages for up to 2, 10, or 30 users",
-      "checked_at": "2026-09-18"
+      "fact": "The Kiro record lists up to one year of Kiro Pro+ credits, with packages for up to 2, 10, or 30 users depending on tier; it also records startup-stage, funding, AWS account/email, AWS Activate, age, location, and promotion-window conditions.",
+      "sourcey_url": "https://sourcey.com/c/kiro/offers/one-year-kiro-pro-plus",
+      "sourcey_vendor_evidence_date": "2026-08-07",
+      "vendor_source_urls": [
+        "https://kiro.dev/startups/",
+        "https://kiro.dev/startups/terms"
+      ],
+      "vendor_pages_rechecked_at": "2026-10-06"
     },
     {
-      "fact": "AWS Activate Portfolio credits are listed up to $200,000 for pre-Series B startups that apply with an AWS Activate Provider Org ID.",
-      "sourcey_url": "https://sourcey.com/catalog/aws/offers/aws-activate-portfolio-credits",
-      "offer_id": "off_01kyh8fpe12z6fgn1ywg2ykth8",
-      "quoted_value": "Up to $200,000; pre-Series B; AWS Activate Provider Org ID",
-      "checked_at": "2026-09-18"
+      "fact": "The AWS Activate Portfolio record lists up to $200,000 for pre-Series B startups with an AWS Activate Provider Org ID.",
+      "sourcey_url": "https://sourcey.com/c/aws/offers/aws-activate-portfolio-credits",
+      "sourcey_observed_date": "2026-08-04",
+      "vendor_source_urls": [
+        "https://aws.amazon.com/startups/credits/"
+      ],
+      "vendor_pages_rechecked_at": "2026-10-06"
     },
     {
-      "fact": "ActiveCampaign's Incubator Program is listed at 90% off an annual plan for the first year, subject to its startup and incubator conditions.",
-      "sourcey_url": "https://sourcey.com/catalog/activecampaign/offers/activecampaign-incubator-program",
-      "offer_id": "off_01kyh8fpdykn4q9hneqabepa3s",
-      "quoted_value": "90% off the first year of an annual plan",
-      "checked_at": "2026-09-18"
+      "fact": "The ActiveCampaign Incubator record lists 90% off an annual plan for the first year for a new customer under two years old who is currently an incubator partner or recent alum and has raised no more than $1,000,000.",
+      "sourcey_url": "https://sourcey.com/c/activecampaign/offers/activecampaign-incubator-program",
+      "sourcey_vendor_evidence_date": "2026-07-27",
+      "vendor_source_urls": [
+        "https://www.activecampaign.com/start-up"
+      ],
+      "vendor_pages_rechecked_at": "2026-10-06"
     }
   ],
   "sourcey_links": [
     {
-      "href": "https://sourcey.com/catalog/kiro/offers/one-year-kiro-pro-plus",
-      "text": "Sourcey record for Kiro's one-year Pro+ offer"
+      "href": "https://sourcey.com/c/kiro/offers/one-year-kiro-pro-plus",
+      "text": "Sourcey Kiro Pro+ record"
     },
     {
-      "href": "https://sourcey.com/catalog/aws/offers/aws-activate-portfolio-credits",
-      "text": "current Sourcey record for AWS Activate Portfolio credits"
+      "href": "https://sourcey.com/c/aws/offers/aws-activate-portfolio-credits",
+      "text": "Sourcey AWS Activate Portfolio record"
     },
     {
-      "href": "https://sourcey.com/catalog/activecampaign/offers/activecampaign-incubator-program",
-      "text": "Sourcey record for ActiveCampaign's Incubator Program"
+      "href": "https://sourcey.com/c/activecampaign/offers/activecampaign-incubator-program",
+      "text": "Sourcey ActiveCampaign Incubator record"
     }
   ]
 }
